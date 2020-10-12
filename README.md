@@ -1,5 +1,5 @@
 **Batalla del Juego de Rol**  
-*Héroe contra monstruo*   
+*Héroe contra Monstruo*   
 
 Un héroe y un monstruo comienzan con la misma puntuación de salud. 
 Durante el turno de la héroe, se generará un valor aleatorio que se restará de la salud del monstruo. Si la salud del monstruo 
