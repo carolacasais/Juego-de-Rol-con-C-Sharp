@@ -1,5 +1,4 @@
 **Batalla del Juego de Rol**  
-
 *Héroe contra monstruo*   
 
 Un héroe y un monstruo comienzan con la misma puntuación de salud. 
